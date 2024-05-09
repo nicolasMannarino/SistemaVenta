@@ -255,3 +255,5 @@ D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVen
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVentaAplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVentaAplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVentaAplicacionWeb\obj\Debug\net6.0\SistemaVentaAplicacionWeb.sourcelink.json
+D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVentaAplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVentaAplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

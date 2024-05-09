@@ -12,3 +12,4 @@ D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVen
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.sourcelink.json
