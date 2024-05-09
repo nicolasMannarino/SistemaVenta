@@ -17,3 +17,4 @@ D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVen
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.Entity.pdb
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
 D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.csproj.CopyComplete
+D:\Users\Manna\repos\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.sourcelink.json
