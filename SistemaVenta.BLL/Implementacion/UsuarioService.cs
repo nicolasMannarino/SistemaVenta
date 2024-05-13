@@ -96,6 +96,7 @@ namespace SistemaVenta.BLL.Implementacion
         {
             Usuario usuario_existe = await _repositorio.Obtener(u => u.Correo == entidad.Correo && u.IdUsuario != entidad.IdUsuario);
 
+
             if (usuario_existe != null)
                 throw new TaskCanceledException("El correo ya existe");
             try
