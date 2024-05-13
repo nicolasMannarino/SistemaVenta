@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a8Qrd3O86xs8WkQ71pK1ZUtoKjyWudQJjKANuCd7GKM=",
+  "Hash": "GQNH6SnQRRJxmxT+0STySbvMtgadFhPFB7WH1780ZxI=",
   "Source": "SistemaVentaAplicacionWeb",
   "BasePath": "_content/SistemaVentaAplicacionWeb",
   "Mode": "Default",
@@ -319,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vistas\\datatables-demo.js"
+    },
+    {
+      "Identity": "D:\\Users\\Manna\\repos\\Curso de Sistema Venta Core\\SolucionSistemaVenta\\SistemaVentaAplicacionWeb\\wwwroot\\js\\vistas\\Usuario_Index.js",
+      "SourceId": "SistemaVentaAplicacionWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\Manna\\repos\\Curso de Sistema Venta Core\\SolucionSistemaVenta\\SistemaVentaAplicacionWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaVentaAplicacionWeb",
+      "RelativePath": "js/vistas/Usuario_Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Usuario_Index.js"
     },
     {
       "Identity": "D:\\Users\\Manna\\repos\\Curso de Sistema Venta Core\\SolucionSistemaVenta\\SistemaVentaAplicacionWeb\\wwwroot\\scss\\_buttons.scss",

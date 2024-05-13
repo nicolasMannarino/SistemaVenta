@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
     },
     {
+      "Id": "D:\\Users\\Manna\\repos\\Curso de Sistema Venta Core\\SolucionSistemaVenta\\SistemaVentaAplicacionWeb\\wwwroot\\js\\vistas\\Usuario_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Usuario_Index.js"
+    },
+    {
       "Id": "D:\\Users\\Manna\\repos\\Curso de Sistema Venta Core\\SolucionSistemaVenta\\SistemaVentaAplicacionWeb\\wwwroot\\js\\vistas\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\js\\vistas\\chart-bar-demo.js"
     },
