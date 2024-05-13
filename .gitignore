@@ -1,8 +1,41 @@
-.vs/
-/bin/
-/obj/
+# Ignorar archivos generados por la compilación
+bin/
+obj/
+*.pdb
+
+# Ignorar archivos de configuración específicos del entorno
 *.user
+*.vscode
+.vs/
+
+# Ignorar archivos de configuración específicos de IDEs
 *.suo
+*.sln.cache
+*.sln.docstates
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de caché y temporales
 *.cache
-*.dll
-*.exe
+*.tmp
+
+# Ignorar archivos de compilación específicos de Visual Studio
+*.csproj.user
+*.sln.ide
+
+# Ignorar archivos de configuración de usuario de Visual Studio
+*.suo
+*.user
+
+# Ignorar archivos de caché de ReSharper
+_ReSharper*/
+
+# Ignorar archivos de caché de Rider
+.idea/
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
+
+SistemaVenta.BLL/obj/
+SistemaVenta.DAL/bin/
