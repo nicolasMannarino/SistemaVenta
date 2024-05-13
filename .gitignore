@@ -37,7 +37,15 @@ _ReSharper*/
 # Ignorar archivos de caché de Visual Studio Code
 .vscode/
 
+SistemaVentaAplicacionWeb/obj/
+SistemaVentaAplicacionWeb/bin/
 SistemaVenta.BLL/obj/
+SistemaVenta.BLL/bin/
+SistemaVenta.DAL/obj/
 SistemaVenta.DAL/bin/
+SistemaVenta.Entity/obj/
+SistemaVenta.Entity/bin/
+SistemaVenta.IOC/obj/
+SistemaVenta.IOC/bin/
 SistemaVentaAplicacionWeb/obj/
 SistemaVentaAplicacionWeb/bin/
