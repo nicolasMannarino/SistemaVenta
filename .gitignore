@@ -39,3 +39,5 @@ _ReSharper*/
 
 SistemaVenta.BLL/obj/
 SistemaVenta.DAL/bin/
+SistemaVentaAplicacionWeb/obj/
+SistemaVentaAplicacionWeb/bin/
